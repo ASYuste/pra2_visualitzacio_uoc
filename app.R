@@ -149,7 +149,7 @@ ui <- dashboardPage(
       })
      ')),
     
-    h1(em("Anuncis d'Airbnb al llarg de diferents ciutats Europees"), align = "center"),
+    h1(em("Anuncis d'Airbnb a diferents ciutats Europees"), align = "center"),
     h5(em("Informació derivada a través d'anuncis publicats a Airbnb"), align = "center"),
     tags$div(em(
       "Codi disponible a ",
