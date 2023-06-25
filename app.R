@@ -151,6 +151,11 @@ ui <- dashboardPage(
     
     h1(em("Anuncis d'Airbnb al llarg de diferents ciutats Europees"), align = "center"),
     h5(em("Informació derivada a través d'anuncis publicats a Airbnb"), align = "center"),
+    tags$div(em(
+      "Codi disponible a ",
+      tags$a(href="https://github.com/ASYuste/pra2_visualitzacio_uoc",
+             "Github")), align = "center"),
+    p(),
     fluidRow(
       box(id = "mapa_box",
           title = "Representació geogràfica",
