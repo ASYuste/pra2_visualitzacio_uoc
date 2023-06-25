@@ -4,7 +4,7 @@ Autor: Albert Salvador
 
 Última modificació: 25/06/2023
 
-Representació disponible a: [https://github.com/ASYuste/pcd_pac4](https://asyuste.shinyapps.io/pra2_visualitzacio_albertsalvador/)
+Representació disponible a: [https://asyuste.shinyapps.io/pra2_visualitzacio_albertsalvador/](https://asyuste.shinyapps.io/pra2_visualitzacio_albertsalvador/)
 
 ## Context
 
